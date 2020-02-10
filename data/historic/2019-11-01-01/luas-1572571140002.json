@@ -1,0 +1,53 @@
+[
+  {
+    "stopID": "45",
+    "stopQueryDate": "2019-11-01T01:19:01.225Z",
+    "Direction": "Outbound",
+    "Destination": "Bride's Glen",
+    "Time": "00:00:07",
+    "AVLS": "00:00:47",
+    "Tram": "5022",
+    "Action": "a",
+    "Msg Sent": "01/11/2019 01:18:53",
+    "Msg Received": "01/11/2019 01:18:53",
+    "Msg Processed": "01/11/2019 01:18:53",
+    "XML ID": "39016",
+    "Total Lag": "0.1451863",
+    "Create Lag": "0.1451863",
+    "Process Lag": "0"
+  },
+  {
+    "stopID": "46",
+    "stopQueryDate": "2019-11-01T01:19:01.233Z",
+    "Direction": "Outbound",
+    "Destination": "Bride's Glen",
+    "Time": "00:01:30",
+    "AVLS": "00:02:10",
+    "Tram": "5022",
+    "Action": "a",
+    "Msg Sent": "01/11/2019 01:18:53",
+    "Msg Received": "01/11/2019 01:18:53",
+    "Msg Processed": "01/11/2019 01:18:53",
+    "XML ID": "39016",
+    "Total Lag": "0.1451863",
+    "Create Lag": "0.1451863",
+    "Process Lag": "0"
+  },
+  {
+    "stopID": "47",
+    "stopQueryDate": "2019-11-01T01:19:01.252Z",
+    "Direction": "Outbound",
+    "Destination": "Bride's Glen",
+    "Time": "00:03:27",
+    "AVLS": "00:04:07",
+    "Tram": "5022",
+    "Action": "a",
+    "Msg Sent": "01/11/2019 01:18:53",
+    "Msg Received": "01/11/2019 01:18:53",
+    "Msg Processed": "01/11/2019 01:18:53",
+    "XML ID": "39016",
+    "Total Lag": "0.1451863",
+    "Create Lag": "0.1451863",
+    "Process Lag": "0"
+  }
+]
