@@ -1,0 +1,19 @@
+[
+  {
+    "stopID": "48",
+    "stopQueryDate": "2020-03-19T01:53:01.187Z",
+    "Direction": "Inbound",
+    "Destination": "Broombridge",
+    "Time": "00:00:00",
+    "AVLS": "00:00:00",
+    "Tram": "5020",
+    "Action": "d",
+    "Msg Sent": "19/03/2020 01:52:54",
+    "Msg Received": "19/03/2020 01:52:54",
+    "Msg Processed": "19/03/2020 01:52:54",
+    "XML ID": "38639",
+    "Total Lag": "0.5461916",
+    "Create Lag": "0.5461916",
+    "Process Lag": "0"
+  }
+]
