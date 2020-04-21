@@ -1,0 +1,19 @@
+[
+  {
+    "stopID": "5",
+    "stopQueryDate": "2020-04-15T02:06:01.595Z",
+    "Direction": "Outbound",
+    "Destination": "Saggart",
+    "Time": "00:05:20",
+    "AVLS": "00:06:00",
+    "Tram": "3002",
+    "Action": "d",
+    "Msg Sent": "15/04/2020 03:05:57",
+    "Msg Received": "15/04/2020 03:05:57",
+    "Msg Processed": "15/04/2020 03:05:57",
+    "XML ID": "38543",
+    "Total Lag": "0.173517",
+    "Create Lag": "0.173517",
+    "Process Lag": "0"
+  }
+]
