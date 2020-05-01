@@ -1,0 +1,36 @@
+[
+  {
+    "stopID": "1",
+    "stopQueryDate": "2020-04-21T00:17:00.833Z",
+    "Direction": "Terminating",
+    "Destination": "Tallaght",
+    "Time": "00:00:12",
+    "AVLS": "00:00:52",
+    "Tram": "4002",
+    "Action": "a",
+    "Msg Sent": "21/04/2020 01:16:59",
+    "Msg Received": "21/04/2020 01:16:59",
+    "Msg Processed": "21/04/2020 01:16:59",
+    "XML ID": "37496",
+    "Total Lag": "0.7093314",
+    "Create Lag": "0.7093314",
+    "Process Lag": "0"
+  },
+  {
+    "stopID": "47",
+    "stopQueryDate": "2020-04-21T00:17:01.152Z",
+    "Direction": "Outbound",
+    "Destination": "Bride's Glen",
+    "Time": "00:00:00",
+    "AVLS": "00:00:00",
+    "Tram": "5014",
+    "Action": "a",
+    "Msg Sent": "21/04/2020 01:16:54",
+    "Msg Received": "21/04/2020 01:16:54",
+    "Msg Processed": "21/04/2020 01:16:54",
+    "XML ID": "37495",
+    "Total Lag": "0.5218359",
+    "Create Lag": "0.5218359",
+    "Process Lag": "0"
+  }
+]
