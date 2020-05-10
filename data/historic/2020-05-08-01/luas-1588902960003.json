@@ -1,0 +1,19 @@
+[
+  {
+    "stopID": "7",
+    "stopQueryDate": "2020-05-08T01:56:00.934Z",
+    "Direction": "Outbound",
+    "Destination": "Red Cow",
+    "Time": "00:00:00",
+    "AVLS": "00:00:00",
+    "Tram": "4011",
+    "Action": "a",
+    "Msg Sent": "08/05/2020 02:55:59",
+    "Msg Received": "08/05/2020 02:55:59",
+    "Msg Processed": "08/05/2020 02:55:59",
+    "XML ID": "39401",
+    "Total Lag": "0.358451",
+    "Create Lag": "0.358451",
+    "Process Lag": "0"
+  }
+]

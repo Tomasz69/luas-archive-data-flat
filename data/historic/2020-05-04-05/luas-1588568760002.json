@@ -1,0 +1,19 @@
+[
+  {
+    "stopID": "6",
+    "stopQueryDate": "2020-05-04T05:06:00.906Z",
+    "Direction": "Inbound",
+    "Destination": "Connolly",
+    "Time": "08:45:22",
+    "AVLS": "08:46:02",
+    "Tram": "4006",
+    "Action": "d",
+    "Msg Sent": "04/05/2020 06:05:59",
+    "Msg Received": "04/05/2020 06:05:58",
+    "Msg Processed": "04/05/2020 06:05:58",
+    "XML ID": "2",
+    "Total Lag": "-0.0210158",
+    "Create Lag": "-0.0210158",
+    "Process Lag": "0"
+  }
+]
