@@ -1,0 +1,344 @@
+[
+  {
+    "stopID": "16",
+    "stopQueryDate": "2020-05-25T01:29:00.265Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "10",
+    "stopQueryDate": "2020-05-25T01:29:00.276Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "19",
+    "stopQueryDate": "2020-05-25T01:29:00.278Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "9",
+    "stopQueryDate": "2020-05-25T01:29:00.289Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "11",
+    "stopQueryDate": "2020-05-25T01:29:00.421Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "18",
+    "stopQueryDate": "2020-05-25T01:29:00.429Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "14",
+    "stopQueryDate": "2020-05-25T01:29:00.436Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "4",
+    "stopQueryDate": "2020-05-25T01:29:00.478Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "15",
+    "stopQueryDate": "2020-05-25T01:29:00.603Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "5",
+    "stopQueryDate": "2020-05-25T01:29:00.609Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "3",
+    "stopQueryDate": "2020-05-25T01:29:00.611Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "7",
+    "stopQueryDate": "2020-05-25T01:29:00.619Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "2",
+    "stopQueryDate": "2020-05-25T01:29:00.772Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "6",
+    "stopQueryDate": "2020-05-25T01:29:00.781Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "17",
+    "stopQueryDate": "2020-05-25T01:29:00.783Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "1",
+    "stopQueryDate": "2020-05-25T01:29:00.791Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "8",
+    "stopQueryDate": "2020-05-25T01:29:00.925Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "13",
+    "stopQueryDate": "2020-05-25T01:29:00.934Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "20",
+    "stopQueryDate": "2020-05-25T01:29:00.937Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "12",
+    "stopQueryDate": "2020-05-25T01:29:01.056Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "23",
+    "stopQueryDate": "2020-05-25T01:29:01.063Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "22",
+    "stopQueryDate": "2020-05-25T01:29:01.187Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "27",
+    "stopQueryDate": "2020-05-25T01:29:01.195Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "26",
+    "stopQueryDate": "2020-05-25T01:29:01.315Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "21",
+    "stopQueryDate": "2020-05-25T01:29:01.319Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "29",
+    "stopQueryDate": "2020-05-25T01:29:01.416Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "35",
+    "stopQueryDate": "2020-05-25T01:29:01.424Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "34",
+    "stopQueryDate": "2020-05-25T01:29:01.533Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "33",
+    "stopQueryDate": "2020-05-25T01:29:01.539Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "36",
+    "stopQueryDate": "2020-05-25T01:29:01.662Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "31",
+    "stopQueryDate": "2020-05-25T01:29:01.667Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "37",
+    "stopQueryDate": "2020-05-25T01:29:01.787Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "32",
+    "stopQueryDate": "2020-05-25T01:29:01.794Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "38",
+    "stopQueryDate": "2020-05-25T01:29:01.957Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "39",
+    "stopQueryDate": "2020-05-25T01:29:01.966Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "40",
+    "stopQueryDate": "2020-05-25T01:29:01.968Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "43",
+    "stopQueryDate": "2020-05-25T01:29:01.975Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "28",
+    "stopQueryDate": "2020-05-25T01:29:02.130Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "25",
+    "stopQueryDate": "2020-05-25T01:29:02.134Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "42",
+    "stopQueryDate": "2020-05-25T01:29:02.146Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "24",
+    "stopQueryDate": "2020-05-25T01:29:02.158Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "44",
+    "stopQueryDate": "2020-05-25T01:29:02.290Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "30",
+    "stopQueryDate": "2020-05-25T01:29:02.298Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "55",
+    "stopQueryDate": "2020-05-25T01:29:02.300Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "48",
+    "stopQueryDate": "2020-05-25T01:29:02.308Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "54",
+    "stopQueryDate": "2020-05-25T01:29:02.448Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "50",
+    "stopQueryDate": "2020-05-25T01:29:02.453Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "49",
+    "stopQueryDate": "2020-05-25T01:29:02.463Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "53",
+    "stopQueryDate": "2020-05-25T01:29:02.489Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "47",
+    "stopQueryDate": "2020-05-25T01:29:02.642Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "45",
+    "stopQueryDate": "2020-05-25T01:29:02.644Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "46",
+    "stopQueryDate": "2020-05-25T01:29:02.647Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "52",
+    "stopQueryDate": "2020-05-25T01:29:02.656Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "51",
+    "stopQueryDate": "2020-05-25T01:29:02.802Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "56",
+    "stopQueryDate": "2020-05-25T01:29:02.803Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "57",
+    "stopQueryDate": "2020-05-25T01:29:02.810Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "58",
+    "stopQueryDate": "2020-05-25T01:29:02.814Z",
+    "count": 0,
+    "results": []
+  }
+]
