@@ -1,0 +1,19 @@
+[
+  {
+    "stopID": "1",
+    "stopQueryDate": "2020-05-24T23:20:00.747Z",
+    "Direction": "Terminating",
+    "Destination": "Tallaght",
+    "Time": "00:00:37",
+    "AVLS": "00:01:17",
+    "Tram": "3025",
+    "Action": "a",
+    "Msg Sent": "25/05/2020 00:19:58",
+    "Msg Received": "25/05/2020 00:19:58",
+    "Msg Processed": "25/05/2020 00:19:58",
+    "XML ID": "23543",
+    "Total Lag": "0.3848293",
+    "Create Lag": "0.3848293",
+    "Process Lag": "0"
+  }
+]
