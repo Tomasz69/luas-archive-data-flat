@@ -6,7 +6,7 @@ Historic luas data fetched by the luas-archiving-service at https://luas-archivi
 
 --historic
 
----YYYY-MM-DD-HH
+---2016-03-13-HH
 
     files: luas-TIMESTAMP.json
     
